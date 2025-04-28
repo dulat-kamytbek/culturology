@@ -1,0 +1,235 @@
+{
+  "kazakh": {
+      "name": "Kazakh",
+      "local_name": "\u049a\u0430\u0437\u0430\u049b",
+      "region": [
+          "Kazakhstan",
+          "China",
+          "Russia"
+      ],
+      "language": {
+          "primary_language": "Kazakh",
+          "has_written_form": true,
+          "writing_system": "Cyrillic script"
+      },
+      "beliefs": {
+          "religion": "Islam",
+          "key_practices": [
+              "Prayer",
+              "Ramadan"
+          ]
+      },
+      "clothing": {
+          "description": "Traditional clothing includes a long robe (chapan) and a hat (tyubeteika).",
+          "image_url": "https://via.placeholder.com/600x400?text=Kazakh+Clothing"
+      },
+      "food": {
+          "representative_dishes": [
+              "Beshbarmak",
+              "Kumys"
+          ],
+          "image_url": "https://api.unsplash.com/photos/random?query=kazakh%20food&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      },
+      "architecture_and_art": {
+          "description": "Traditional Kazakh yurts and elaborate decorative art.",
+          "image_url": "https://api.unsplash.com/photos/random?query=kazakh%20architecture&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      },
+      "important_holidays": [
+          {
+              "holiday_name": "Nauryz",
+              "description": "A traditional New Year festival celebrated with outdoor festivities."
+          }
+      ],
+      "social_customs": {
+          "greeting": "A traditional greeting is to place your hand over your heart and bow slightly.",
+          "marriage_customs": "Kazakh weddings include singing, dancing, and feasting.",
+          "image_url": "https://api.unsplash.com/photos/random?query=kazakh%20customs&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      }
+  },
+    "Tibetan": {
+      "name": "Tibetan", 
+      "local_name": "བོད་པ",
+      "region": [
+        "China", 
+        "India", 
+        "Nepal"
+      ],
+      "language": {
+        "primary_language": "Tibetan",
+        "has_written_form": true,
+        "writing_system": "Tibetan script"
+      },
+      "beliefs": {
+        "religion": "Tibetan Buddhism",
+        "key_practices": [
+          "Meditation",
+          "Reincarnation system"
+        ]
+      },
+      "clothing": {
+        "description": "Traditional clothing is the Tibetan robe, typically in red, yellow, and blue, with a belt and headscarf.",
+        "image_url": "https://api.unsplash.com/photos/random?query=tibetan%20clothing&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      },
+      "food": {
+        "representative_dishes": [
+          "Butter tea",
+          "Tsampa"
+        ],
+        "image_url": "https://api.unsplash.com/photos/random?query=tibetan%20food&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      },
+      "architecture_and_art": {
+        "description": "Architectural style of Potala Palace, Thangka painting art.",
+        "image_url": "https://api.unsplash.com/photos/random?query=tibetan%20architecture&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      },
+      "important_holidays": [
+        {
+          "holiday_name": "Tibetan New Year",
+          "description": "One of the most important traditional holidays in Tibetan culture, celebrating the lunar new year."
+        }
+      ],
+      "social_customs": {
+        "greeting": "Traditionally, Tibetans offer a Khata (scarf) to express blessings and respect.",
+        "marriage_customs": "During weddings, there are traditional songs and dances performed, with friends and family celebrating together.",
+        "image_url": "https://api.unsplash.com/photos/random?query=tibetan%20customs&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      }
+    },
+  "ozbek": {
+      "name": "Uzbek",
+      "local_name": "O'zbek",
+      "region": [
+          "Uzbekistan",
+          "Afghanistan",
+          "Kazakhstan"
+      ],
+      "language": {
+          "primary_language": "Uzbek",
+          "has_written_form": true,
+          "writing_system": "Latin script"
+      },
+      "beliefs": {
+          "religion": "Islam",
+          "key_practices": [
+              "Prayer",
+              "Ramadan"
+          ]
+      },
+      "clothing": {
+          "description": "Uzbek traditional clothing includes colorful robes and a skullcap (doppa).",
+          "image_url": "https://api.unsplash.com/photos/random?query=uzbek%20clothing&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      },
+      "food": {
+          "representative_dishes": [
+              "Plov",
+              "Samsa"
+          ],
+          "image_url": "https://api.unsplash.com/photos/random?query=uzbek%20food&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      },
+      "architecture_and_art": {
+          "description": "Timurid architecture, featuring intricate tilework and massive domes.",
+          "image_url": "https://api.unsplash.com/photos/random?query=uzbek%20architecture&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      },
+      "important_holidays": [
+          {
+              "holiday_name": "Navruz",
+              "description": "The Persian New Year celebrated with family feasts and festivals."
+          }
+      ],
+      "social_customs": {
+          "greeting": "A traditional greeting is a handshake with a gentle bow of the head.",
+          "marriage_customs": "Weddings include traditional dances, songs, and elaborate feasts.",
+          "image_url": "https://api.unsplash.com/photos/random?query=uzbek%20customs&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      }
+  },
+  "kyrgyz": {
+      "name": "Kyrgyz",
+      "local_name": "\u041a\u044b\u0440\u0433\u044b\u0437",
+      "region": [
+          "Kyrgyzstan",
+          "China",
+          "Kazakhstan"
+      ],
+      "language": {
+          "primary_language": "Kyrgyz",
+          "has_written_form": true,
+          "writing_system": "Cyrillic script"
+      },
+      "beliefs": {
+          "religion": "Islam",
+          "key_practices": [
+              "Prayer",
+              "Ramadan"
+          ]
+      },
+      "clothing": {
+          "description": "Traditional Kyrgyz clothing includes felt hats (kalpak) and woolen robes.",
+          "image_url": "https://api.unsplash.com/photos/random?query=kyrgyz%20clothing&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      },
+      "food": {
+          "representative_dishes": [
+              "Beshbarmak",
+              "Kurut"
+          ],
+          "image_url": "https://api.unsplash.com/photos/random?query=kyrgyz%20food&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      },
+      "architecture_and_art": {
+          "description": "Traditional yurts and intricate textile arts are part of Kyrgyz culture.",
+          "image_url": "https://api.unsplash.com/photos/random?query=kyrgyz%20architecture&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      },
+      "important_holidays": [
+          {
+              "holiday_name": "Nooruz",
+              "description": "Celebrated as the arrival of spring and the Persian New Year."
+          }
+      ],
+      "social_customs": {
+          "greeting": "A traditional greeting is a firm handshake and a nod of respect.",
+          "marriage_customs": "Kyrgyz weddings include elaborate rituals and a feast for the entire village.",
+          "image_url": "https://api.unsplash.com/photos/random?query=kyrgyz%20customs&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      }
+  },
+  "japanese": {
+      "name": "Japanese",
+      "local_name": "\u65e5\u672c\u4eba",
+      "region": [
+          "Japan"
+      ],
+      "language": {
+          "primary_language": "Japanese",
+          "has_written_form": true,
+          "writing_system": "Kanji, Hiragana, Katakana"
+      },
+      "beliefs": {
+          "religion": "Shintoism, Buddhism",
+          "key_practices": [
+              "Tea ceremony",
+              "Ancestor worship"
+          ]
+      },
+      "clothing": {
+          "description": "Traditional clothing includes the kimono, with elaborate patterns and silk fabric.",
+          "image_url": "https://api.unsplash.com/photos/random?query=japanese%20clothing&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      },
+      "food": {
+          "representative_dishes": [
+              "Sushi",
+              "Ramen"
+          ],
+          "image_url": "https://api.unsplash.com/photos/random?query=japanese%20food&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      },
+      "architecture_and_art": {
+          "description": "Traditional Japanese architecture, such as temples and tea houses, and woodblock prints.",
+          "image_url": "https://api.unsplash.com/photos/random?query=japanese%20architecture&client_id=Ema29Fk5t70tMW_Y2-3q6geQTkvUL8SBzveQsPCJwmo"
+      },
+      "important_holidays": [
+          {
+              "holiday_name": "Obon",
+              "description": "A Buddhist festival to honor ancestors, involving lanterns and dance."
+          }
+      ],
+      "social_customs": {
+          "greeting": "A bow is the traditional greeting, with varying degrees of formality.",
+          "marriage_customs": "Japanese weddings often involve Shinto ceremonies with sacred rituals.",
+          "image_url": "https://api.unsplash.com/photos/random?query=japanese%20customs&client_id=x5lsmaIDp4z5s0odBpKthDpwyUjqdGcez0jVtShnEvk"
+      }
+  }
+}
